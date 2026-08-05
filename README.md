@@ -14,6 +14,8 @@ Examples I wrote:
 - Grade.py, a program which gives you a grade depending on the score you got in your test, using if, elif and else
 - House.py, a program which asks user for a name and matches them to a house in harry potter using match and cases
 - Parity.py, a program which uses Boolean values to determine weather a number is odd or even based on its remainder when divided by two
+- Calculator.py a program which uses if, elif and else statements to get user input and perform simple arithmetic operations on two numbers 
+
 Problems I encountered:
 - during the final problem set 'Meal Time' I got confused turning the hours and minutes from strings into integers so I could convert minutes into decimals 
   
