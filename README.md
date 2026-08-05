@@ -1,5 +1,6 @@
 **Week 2: Conditionals** 
 - date: 28/07/26
+
 What I learnt:
 - using if, elif and else to make decisions
 - comparing values using == (equals), != (doesn't equal), < (less than), > (greater than), <= (less than or equal to), >= (greater than or equal to)
