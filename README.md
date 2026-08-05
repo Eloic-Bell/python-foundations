@@ -1,6 +1,7 @@
 
   **Week 1: Functions and Variables**
 - date: 27/07/26
+
 What I learnt:
 - print() function to display text
 - Storing information in variables
